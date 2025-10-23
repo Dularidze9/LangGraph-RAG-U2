@@ -1,6 +1,6 @@
 
 <!-- TOC --><a name="cognito-langgraph-rag"></a>
-# LangGraph-RAG-U2 (რაგ-აგენტური-u2)
+# LangGraph-RAG-U2 (რაგი-აგენტური-u2)
 
 - Developed an advanced RAG workflow utilizing LangGraph to enhance question-answering accuracy, resulting in a significant reduction in Large Language Model (LLM) hallucinations. 
 - Architected a stateful, multi-step process incorporating document retrieval, relevance grading, and web search fallback using LangGraph, leading to improved information retrieval and user satisfaction. 
